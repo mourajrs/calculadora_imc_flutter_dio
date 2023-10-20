@@ -1,6 +1,6 @@
 ## Bootcamp Santander Dio - Desafio Calculadora de IMC
 
-* Conforme tabela abaixo realizar o cálculo e mostrar no terminal a informação sobre o IMC do usuário.
+* Conforme tabela abaixo realizar o cálculo do IMC e mostrar na tela o resultado sobre o IMC do usuário.
 ![Tabela IMC](image-1.png)
 
 ### Checklist do Desafio
